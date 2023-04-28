@@ -4,13 +4,8 @@
 
 cd into the repo and run the following commands:
 
-#First 
-
 
 docker-compose build
-
-#Second 
-
 
 
 docker-compose up
