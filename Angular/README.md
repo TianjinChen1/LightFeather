@@ -1,6 +1,17 @@
 <<<<<<< HEAD
 # LightFeather
 =======
+
+cd into the repo and run the following commands:
+
+docker-compose build
+docker-compose up
+
+Then 
+Open http://localhost:4200/
+
+
+
 # Notification
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
